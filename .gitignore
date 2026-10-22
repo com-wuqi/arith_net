@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# uv / venv
+.venv/
+
+# experiment artifacts (regenerate with `uv run python run.py ...`)
+runs/
+*.log
+
+# os
+.DS_Store
+Thumbs.db
