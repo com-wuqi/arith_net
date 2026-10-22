@@ -278,3 +278,7 @@ uv run python scripts/summarize.py e1
 ```
 Author: deepseek-v4.1-flash-1017
 ```
+
+## 许可
+
+[MIT](LICENSE)
